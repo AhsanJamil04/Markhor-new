@@ -1,0 +1,3 @@
+# Cloudflare response headers. The share-preview image is built without a file extension.
+/opengraph-image
+  Content-Type: image/png
